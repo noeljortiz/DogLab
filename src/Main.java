@@ -43,6 +43,15 @@ public class Main
             System.out.println(doggys.get(i).bark());
     }
 
+        ((Labrador)doggys.get(1)).waddle();
+
+        for(int i = 0; i < doggys.size();i++){
+            doggys.get(i).waddle();
+        }
+
+
+
+
 
 
 
