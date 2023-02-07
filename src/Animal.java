@@ -1,15 +1,14 @@
 public abstract class Animal {
 
-    private static int age;
+    private int age;
 
     public Animal(){
         age = 0;
     }
-    public static int setAge(int newAge){
+    public void setAge(int newAge){
         age = newAge;
-        return age;
     }
-    public static int getAge(){
+    public int getAge(){
         return age;
     }
     public abstract void eat();

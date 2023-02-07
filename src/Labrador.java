@@ -20,6 +20,7 @@ public class Labrador extends Dog
     }
 
 
+
     public String bark()
     {
         return "Labrador barking";

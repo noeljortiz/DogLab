@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="867a97f5-f0d6-4f51-a417-f23b8d92df46" name="Changes" comment="initial&#10;Phase 1 and 2 almost">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+    <list default="true" id="867a97f5-f0d6-4f51-a417-f23b8d92df46" name="Changes" comment="initial&#10;Phase 1 and 2 almost&#10;mid way through phase 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Labrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labrador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Yorkshire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Yorkshire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675352973339</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial&#10;Phase 1 and 2 almost&#10;mid way through phase 3">
+      <created>1675439290551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675439290552</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="initial&#10;Phase 1 and 2 almost" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial&#10;Phase 1 and 2 almost" />
+    <MESSAGE value="initial&#10;Phase 1 and 2 almost&#10;mid way through phase 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial&#10;Phase 1 and 2 almost&#10;mid way through phase 3" />
   </component>
 </project>

@@ -16,6 +16,9 @@ public class Yorkshire extends Dog
         super(name);
         this.size = size;
     }
+    public String bark() {
+        return "Yorkshire barking";
+    }
 
 
     public void waddle()
@@ -24,3 +27,6 @@ public class Yorkshire extends Dog
     }
 
 }
+
+
+
